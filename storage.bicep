@@ -1,4 +1,4 @@
-param storageAccounts_straaz999_name string = 'straaz999'
+param storageAccounts_straaz999_name string = 'storageaz-400'
 
 resource storageAccounts_straaz999_name_resource 'Microsoft.Storage/storageAccounts@2025-06-01' = {
   name: storageAccounts_straaz999_name
